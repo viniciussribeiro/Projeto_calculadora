@@ -1,2 +1,2 @@
 # **Aplicativo Calculadora**
-Criando aplicativo Calculadora usando JavaScript
+Criando aplicativo Calculadora usando Cordova
