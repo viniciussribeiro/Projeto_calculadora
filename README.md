@@ -1,2 +1,2 @@
 # **Aplicativo Calculadora**
-Criando aplicativo Calculadora usando Cordova
+Criando aplicativo calculadora usando Cordova
