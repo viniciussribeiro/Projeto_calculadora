@@ -1,2 +1,2 @@
-# Aplicativo Calculadora
-Criando aplicativo Calculadora usando JavaS
+# **Aplicativo Calculadora**
+Criando aplicativo Calculadora usando JavaScript
